@@ -1,5 +1,5 @@
 # Most explicit routing to GCE Precise
 sudo: required
 dist: trusty
-language: JAVA
+language: Python
 script: echo hola
