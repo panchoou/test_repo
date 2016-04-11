@@ -1,6 +1,2 @@
-language: Objective-C
-cache:
-  directories:
-    - $HOME/.cocoapods/repos
-install: pod setup
+language: C
 script: true
