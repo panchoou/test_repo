@@ -2,6 +2,6 @@
 sudo: required
 dist: trusty
 
-language: JAVA
+language: Java
 
 script: echo hola
