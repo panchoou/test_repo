@@ -1,5 +1,4 @@
-language: Objective-C
-osx_image: xcode7.3
+language: Python
 cache:
   directories:
     - $HOME/.cocoapods/repos
