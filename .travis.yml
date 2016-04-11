@@ -1,4 +1,4 @@
-language: Python
+language: Objective-C
 cache:
   directories:
     - $HOME/.cocoapods/repos
