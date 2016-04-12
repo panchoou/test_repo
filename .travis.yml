@@ -1,4 +1,3 @@
-language: C
-
+language: Objective-C
 
 script: true
