@@ -1,3 +1,4 @@
-language: Python
-
-script: true
+language: Objective-C
+sudo: false
+script: sleep 15
+install: pod setup
