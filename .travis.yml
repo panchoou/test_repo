@@ -3,8 +3,6 @@ services:
     - docker
 sudo: required
 install: true
-script:
-    - ruby -e 'sleep(5 + rand * 60)'
 env:
   matrix:
     - JOB=1
