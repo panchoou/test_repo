@@ -1,7 +1,5 @@
+sudo: false
 language: Ruby
-services:
-    - docker
-sudo: required
 install: true
 env:
   matrix:
