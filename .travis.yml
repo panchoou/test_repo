@@ -1,7 +1,8 @@
-# Most explicit routing to GCE Precise
-sudo: required
-dist: trusty
-
-language: generic
-
-script: echo hola
+sudo: false
+language:
+  node_js
+node_js:
+  - 5.7.0
+script:
+  - echo "nothing"
+  - echo "more"
