@@ -1,8 +1,13 @@
-sudo: false
-language:
-  node_js
-node_js:
-  - 5.7.0
-script:
-  - echo "nothing"
-  - echo "more"
+language: Ruby
+services:
+    - docker
+sudo: required
+install: true
+env:
+  matrix:
+    - JOB=1
+    - JOB=2
+    - JOB=3
+    - JOB=4
+    - JOB=5
+    - JOB=6
