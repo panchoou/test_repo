@@ -1,5 +1,15 @@
-sudo: false
-
-notifications:
-  webhooks:
-    - http://mockbin.org/bin/4ca2320e-90e1-40fb-9959-0b593dd9113f
+language: Ruby
+services:
+    - docker
+sudo: required
+install: true
+script:
+    - ruby -e 'sleep(5 + rand * 60)'
+env:
+  matrix:
+    - JOB=1
+    - JOB=2
+    - JOB=3
+    - JOB=4
+    - JOB=5
+    - JOB=6
