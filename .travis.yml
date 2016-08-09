@@ -9,7 +9,3 @@ env:
   matrix:
     - JOB=1
     - JOB=2
-notifications:
-  slack:
-    on_pull_requests: false
-    secure: qZLhieLcEWrRZVJUQZpG38XIrgsZZh/Wc2gtyWv4bckXBKk/DPdGuYa2m8hFA0dgAUVj86Md3hqMiZKSef3Ohhlavjr9NvKgHQMo2Fbtwzl+2EQGCdR80b9EyrybhTBCcgVKKHXydQSzxiMCZxVh/M9pW4wMjINVU3WYeZfYlCFi3UNCsAlKo+TGK7xBwh++dhLM4dH5+iV3QRBp7imYwZOzI6lh/uUbTWC2uejzTrpKOdzAI+HPfY+NrkIHd29ILfHL82sKDpkKvv1s/+U/Bv+hnIESZaOWrjVyyYRszfhsKX5rov9pnCm+V2GSqxnCUzcZ+mIR9KYeaz1NeGQP3idd1sezYWA6xKg01erfNkUZCylOm9sxK6ecMbm7Na5JR4QJe2YOS5TlmuXk3+6QecXCJit5Rx7AwEYrYq0xKfQS+9DRuBxdhG4kmVb1Djuir3AKUKYKV965fdHOlcyk8ZexB+ECuq1SteJwl9m68DKTzuJP0BYlBRNlpyTJRlN/JYHroYGxd0/unVg9uCzt2bcaQaLoE84BKVHN+ZnYiHlEmdYReyd06Hh78mdpUooZDXW057KFU4NeSTyy7c0hSnFTVAHhiyihfnaRpDwNrrNamQE6uBIjWMQSAf0stNf5fnnQOOgZN2+bioJfXJYYRh/fLGoFq97ngXoKniPbvWQ=
