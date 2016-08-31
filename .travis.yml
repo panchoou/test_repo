@@ -1,7 +1,3 @@
 script:
   - echo "nothing"
   - echo "more"
-env:
-  matrix:
-    - JOB=1
-    - JOB=2
