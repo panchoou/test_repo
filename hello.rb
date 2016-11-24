@@ -1,1 +1,1 @@
-puts "pushed branch "
+puts "pushed branch with PR"
