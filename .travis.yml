@@ -3,3 +3,6 @@ cache: bundler
 script:
   - echo "nothing"
   - echo "more"
+notifications:
+  webhooks:
+    - http://mockbin.org/bin/4ca2320e-90e1-40fb-9959-0b593dd9113f
