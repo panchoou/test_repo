@@ -5,4 +5,4 @@ script:
   - echo "more"
 notifications:
   webhooks:
-    - http://mockbin.org/bin/4ca2320e-90e1-40fb-9959-0b593dd9113f
+    - http://mockbin.org/bin/94cb6ebe-7456-4749-a2e8-abe3c146beb3
