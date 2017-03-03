@@ -1,8 +1,4 @@
 language: ruby
-cache: bundler
 script:
   - echo "nothing"
   - echo "more"
-notifications:
-  webhooks:
-    - http://mockbin.org/bin/94cb6ebe-7456-4749-a2e8-abe3c146beb3
